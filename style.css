@@ -1,0 +1,55 @@
+* {
+	text-align: center;
+	color: rgba(0,0,0,0.8);
+}
+
+body {
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+#main {
+	background-color: rgba(181, 165, 165, 0.2);
+	border-radius: 10px;
+	padding-bottom: 10px;
+}
+
+#title {
+	padding-top: 30px;
+	padding-bottom: 10px;
+	text-align: center;
+	
+}
+
+#img-div {
+	background-color: white;
+	margin-left: 10px;
+	margin-right: 10px;
+	padding-bottom: 10px;
+}
+
+#image {
+	max-width: 100%;
+	display: block;
+	height: auto;
+	margin: auto;
+}
+
+
+#tribute-info {
+	padding-left: 25%;
+	padding-right: 25%;
+	width: 50%;
+	text-align: left;
+}
+ li {
+ 	text-align: left;
+ }
+
+
+#img-caption {
+
+}
+
+#tribute-link {
+	
+}
